@@ -1,0 +1,6 @@
+[color]
+foreground = '#83A598'
+[general]
+framerate = 100
+sensitivity = 100
+bars = 0

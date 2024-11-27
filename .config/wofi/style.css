@@ -1,0 +1,16 @@
+window {
+    border-radius: 12px;
+  border-color:#8aadf4
+}
+
+#input {
+    margin: 4px;
+}
+
+#inner-box {
+    margin: 4px;
+}
+
+#text {
+    margin: 4px;
+}
